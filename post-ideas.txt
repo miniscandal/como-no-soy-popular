@@ -1,0 +1,20 @@
+Terminal
+
+☆ Realizo pruebas de API con curl
+☆ Prefiero una terminal independiente
+
+Python
+
+☆ Desarrollo con entornos virtuales en Python
+
+HTML - JavaScript - CSS
+
+☆ uso atributos de datos en HTML
+
+Concepts
+
+☆ Escribiré de condiciones de guarda
+
+VSCODE
+
+☆ Personalizaré mi editor de código
