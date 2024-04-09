@@ -18,3 +18,4 @@ Concepts
 VSCODE
 
 ☆ Personalizaré mi editor de código
+☆ Creo perfiles en vscode
