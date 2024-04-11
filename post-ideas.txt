@@ -14,6 +14,7 @@ HTML - JavaScript - CSS
 Concepts
 
 ☆ Escribiré de condiciones de guarda
+☆ Compartiré un ejemplo de recursion
 
 VSCODE
 
