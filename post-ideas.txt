@@ -14,9 +14,13 @@ HTML - JavaScript - CSS
 Concepts
 
 ☆ Escribiré de condiciones de guarda
-☆ Compartiré un ejemplo de recursion
+☆ Compartiré un ejemplo de recursividad
 
 VSCODE
 
 ☆ Personalizaré mi editor de código
 ☆ Creo perfiles en vscode
+
+It is not published
+
+☆ uso python para mi scripts
