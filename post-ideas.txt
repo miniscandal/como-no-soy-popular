@@ -6,8 +6,7 @@ Terminal
 Python
 
 ☆ Desarrollo con entornos virtuales en Python
-
-☆ codifico scripts con Python
+☆ Codifico scripts con Python
 
 HTML - JavaScript - CSS
 
@@ -17,6 +16,8 @@ Concepts
 
 ☆ Escribiré de condiciones de guarda
 ☆ Compartiré un ejemplo de recursividad
+☆ Mi primer paradigma fue programación estructurada
+☆ Implemento arquitecturas de software
 
 VSCODE
 
