@@ -18,6 +18,7 @@ Concepts
 ☆ Compartiré un ejemplo de recursividad
 ☆ Mi primer paradigma fue programación estructurada
 ☆ Implemento arquitecturas de software
+☆ Utilizo Bing IA para obtener la cadena evolutiva Pokémon
 
 VSCODE
 
@@ -27,3 +28,4 @@ VSCODE
 It is not published
 
 ☆ Singlenton
+☆ Como usar git para features
