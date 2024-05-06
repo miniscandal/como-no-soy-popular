@@ -10,7 +10,11 @@ Python
 
 HTML - JavaScript - CSS
 
-☆ uso atributos de datos en HTML
+☆ Uso atributos de datos en HTML
+
+JavaScript | React
+
+☆ Copio mi correo electrónico al portapapeles con JavaScript
 
 Concepts
 
