@@ -24,6 +24,10 @@ Concepts
 ☆ Implemento arquitecturas de software
 ☆ Utilizo Bing IA para obtener la cadena evolutiva Pokémon
 
+Windows
+
+☆ Personalizo el explorador de archivos en Windows
+
 VSCODE
 
 ☆ Personalizaré mi editor de código
