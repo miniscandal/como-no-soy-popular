@@ -36,6 +36,7 @@ VSCODE
 Java
 
 ☆ Repaso lo aprendido sobre Java y sus herramientas
+☆ Realizo un ejercicio de suma de los primeros números naturales en Java
 
 It is not published
 
