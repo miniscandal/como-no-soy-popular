@@ -40,12 +40,13 @@ Java
 ☆ Creo una nueva instancia de la clase BufferedInputStream en Java
 ☆ Comprendo el uso de los getters y setters en OOP
 
+⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
+
+
 It is not published
 
 ☆ Singlenton con propiedad estatica o con contructur
-☆ Como usar git para features
 ☆ Función en PowerShell, aliases
-☆ Consultas de prueba sql, mysql
 
 ⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
 
