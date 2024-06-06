@@ -37,8 +37,27 @@ Java
 
 ☆ Repaso lo aprendido sobre Java y sus herramientas
 ☆ Realizo un ejercicio de suma de los primeros números naturales en Java
+☆ Creo una nueva instancia de la clase BufferedInputStream en Java
+☆ Comprendo el uso de los getters y setters en OOP
 
 It is not published
 
-☆ Singlenton
+☆ Singlenton con propiedad estatica o con contructur
 ☆ Como usar git para features
+☆ Función en PowerShell, aliases
+☆ Consultas de prueba sql, mysql
+
+⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
+
+
+TEXT
+
+(Isistente con AI se conciso con tus repuestas. quiero que mejores la redaccion, coherencia y la exprecion concisa de este texto:)
+
+
+
+Aspectos relacionados
+
+⚝ A
+⚝ B
+⚝ C

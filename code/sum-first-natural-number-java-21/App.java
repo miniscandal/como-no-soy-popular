@@ -1,6 +1,3 @@
-package org.example;
-
-import java.lang.reflect.Method;
 import java.util.Scanner;
 
 public class App {
