@@ -39,6 +39,7 @@ Java
 ☆ Realizo un ejercicio de suma de los primeros números naturales en Java
 ☆ Creo una nueva instancia de la clase BufferedInputStream en Java
 ☆ Comprendo el uso de los getters y setters en OOP
+☆ Entendiendo API REST, conceptos básicos
 
 ⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
 
