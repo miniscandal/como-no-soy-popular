@@ -40,6 +40,9 @@ Java
 ☆ Creo una nueva instancia de la clase BufferedInputStream en Java
 ☆ Comprendo el uso de los getters y setters en OOP
 ☆ Entendiendo API REST, conceptos básicos
+☆ Realizo un proyecto personal de software en Java 21
+☆ Declaro propiedades estáticas en Java
+☆ Depuré un error lógico en mi proyecto de software
 
 ⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
 
