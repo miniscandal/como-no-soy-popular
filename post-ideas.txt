@@ -44,13 +44,17 @@ Java
 ☆ Declaro propiedades estáticas en Java
 ☆ Depuré un error lógico en mi proyecto de software
 
+PowerShell
+
+☆ Mejora tu productividad con PowerShell
+
 ⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
 
 
 It is not published
 
 ☆ Singlenton con propiedad estatica o con contructur
-☆ Función en PowerShell, aliases
+☆ Ascii Art
 
 ⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
 
