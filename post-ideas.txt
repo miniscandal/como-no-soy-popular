@@ -11,6 +11,7 @@ Python
 HTML - JavaScript - CSS
 
 ☆ Uso atributos de datos en HTML
+☆ Práctica de Frontend con CSS y HTML
 
 JavaScript | React
 
