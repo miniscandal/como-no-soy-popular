@@ -24,6 +24,7 @@ Concepts
 ☆ Mi primer paradigma fue programación estructurada
 ☆ Implemento arquitecturas de software
 ☆ Utilizo Bing IA para obtener la cadena evolutiva Pokémon
+☆ Desplazamiento de bits en programación
 
 Windows
 
