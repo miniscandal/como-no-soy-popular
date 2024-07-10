@@ -44,30 +44,18 @@ Java
 ☆ Realizo un proyecto personal de software en Java 21
 ☆ Declaro propiedades estáticas en Java
 ☆ Depuré un error lógico en mi proyecto de software
+☆ Comprendo el concepto de Java Persistence API
 
 PowerShell
 
 ☆ Mejora tu productividad con PowerShell
 
-⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
-
 
 It is not published
 
-☆ Singlenton con propiedad estatica o con contructur
+☆ Singlenton con propiedad estatica o con contructor
 ☆ Ascii Art
-
-⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝⚝  
-
-
-TEXT
-
-(Isistente con AI se conciso con tus repuestas. quiero que mejores la redaccion, coherencia y la exprecion concisa de este texto:)
-
-
-
-Aspectos relacionados
-
-⚝ A
-⚝ B
-⚝ C
+☆ Factory Java
+☆ Attributes JavaScript - HTML
+☆ Modular - Cohesion
+☆ VSCode shortcuts  (por que tambien tiene atajos de teclado para la productividad)
