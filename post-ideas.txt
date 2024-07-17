@@ -2,6 +2,7 @@ Terminal
 
 ☆ Realizo pruebas de API con curl
 ☆ Prefiero una terminal independiente
+☆ Comando cat para leer archivos de texto
 
 Python
 
@@ -25,6 +26,10 @@ Concepts
 ☆ Implemento arquitecturas de software
 ☆ Utilizo Bing IA para obtener la cadena evolutiva Pokémon
 ☆ Desplazamiento de bits en programación
+
+Systemas embebidos
+
+☆ Recuerdo lo “mágico” que es un microcontrolador
 
 Windows
 
