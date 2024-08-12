@@ -51,7 +51,11 @@ Java
 ☆ Declaro propiedades estáticas en Java
 ☆ Depuré un error lógico en mi proyecto de software
 ☆ Comprendo el concepto de Java Persistence API
+☆ Búsquedas en tiempo constante con HashMap en Java
+☆ Bloques de inicialización en Java
 
+
+ 
 PowerShell
 
 ☆ Mejora tu productividad con PowerShell
