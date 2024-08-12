@@ -59,13 +59,3 @@ Java
 PowerShell
 
 ☆ Mejora tu productividad con PowerShell
-
-
-It is not published
-
-☆ Singlenton con propiedad estatica o con contructor
-☆ Ascii Art
-☆ Factory Java
-☆ Attributes JavaScript - HTML
-☆ Modular - Cohesion
-☆ VSCode shortcuts  (por que tambien tiene atajos de teclado para la productividad)
