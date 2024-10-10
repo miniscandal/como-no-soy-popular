@@ -13,6 +13,7 @@ HTML - JavaScript - CSS
 
 ☆ Uso atributos de datos en HTML
 ☆ Práctica de Frontend con CSS y HTML
+☆ Utilizare funciones normales de JavaScript en el event listener
 
 JavaScript | React
 
